@@ -17,7 +17,7 @@ const Header = ({ isAbsolute }) => {
         <Link href="/">
           <Image
             className="md:w-60 md:h-60"
-            src="/img/logo.png"
+            src="/img/logo.webp"
             width={80}
             height={80}
             alt="Imagen del logo"
