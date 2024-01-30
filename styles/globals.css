@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  font-family: "Lato", "sans-serif";
+}
+
+h1,
+h2 {
+  font-family: "Bitter", "serif";
+}
+
+h3 {
+  font-family: "Permanent Marker", "cursive";
+}

@@ -1,0 +1,57 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "title": "Smashack - Bella Vista",
+      "image": "/img/bellaVista.webp",
+      "address": "Av 4 Bella Vista, with street. 69A, Maracaibo 4001.",
+      "schedules": "Monday to Sunday from [12:00 to 23:00]",
+      "phone": "Orders or reservations: +58 414-6852258"
+    },
+
+    {
+      "id": 2,
+      "title": "Smashack - Sambil",
+      "image": "/img/shoppingCenter.webp",
+      "address": "Sambil shopping center Maracaibo, Gourmet zone.",
+      "schedules": "Monday to Friday from [10:00 to 20:00], Saturday from [10:00 to 21:00], Sundays from [12:00 to 21:00] ",
+      "phone": "Orders: +58 414-6852258"
+    },
+
+    {
+      "id": 3,
+      "title": "Smashack - Valencia",
+      "image": "/img/shoppingCenter.webp",
+      "address": "El Viñedo shopping center, Valencia - Carabobo.",
+      "schedules": "Monday to Sunday from [12:00 to 23:00]",
+      "phone": "Orders or reservations: +58 424-6106806"
+    }
+  ],
+
+  "menu": [
+    {
+      "id": "deluxe",
+      "name": "Deluxe",
+      "image": "/img/deluxe.jpg",
+      "description": "Super juicy double meat with double American cheese, smoked bacon, finely chopped onion, pickles and house dressing."
+    },
+    {
+      "id": "baconatic",
+      "name": "baconatic",
+      "image": "/img/baconatic.jpg",
+      "description": "Super juicy double meat with double American cheese, smoked bacon, finely chopped onion and house dressing."
+    },
+    {
+      "id": "oklahoma",
+      "name": "oklahoma",
+      "image": "/img/oklahoma.jpg",
+      "description": "Super juicy double meat with double American cheese, ultra-thinly sliced onion, crushed on top of the meat to achieve a slight caramelization of the onion."
+    },
+    {
+      "id": "stacker",
+      "name": "stacker",
+      "image": "/img/stacker.jpg",
+      "description": "four meats in the best smash style with plenty of American cheese, finely chopped onion and house dressing."
+    }
+  ]
+}
